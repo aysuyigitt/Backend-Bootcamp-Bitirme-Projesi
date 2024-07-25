@@ -5,11 +5,16 @@ HospitalApp Backend, bitirme projesi kapsamında hastane bilgilerini yönetme, o
 
 ## Beklenen Fonksiyonlar
 
-Hastane Yönetimi
-Oda Yönetimi
-İletişim Yönetimi
-Departman Yönetimi
-Rendavu Yönetimi
+**Hastane Yönetimi**
+
+**Oda Yönetimi**
+
+**İletişim Yönetimi**
+
+**Departman Yönetimi**
+
+**Rendavu Yönetimi**
+
 
 **Hastane Yönetimi**
 
