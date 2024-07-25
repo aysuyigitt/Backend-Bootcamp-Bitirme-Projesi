@@ -1,5 +1,5 @@
 
-📣 # DataDrive: Back-End Bootcamp Bitirme Projesi 📣
+📣 **DataDrive: Back-End Bootcamp Bitirme Projesi**📣
 
 HospitalApp Backend, bitirme projesi kapsamında hastane bilgilerini yönetme, oda yönetimi, iletişim bilgilerini güncelleme, departmanları düzenleme ve randevu takibini sağlama gibi ana işlevleri sunar. Bu işlevler, veritabanı ile etkileşim ve iş mantığını yönetmek için ASP.NET Core ve Entity Framework Core gibi araçlar kullanılarak gerçekleştirilir. Kullanıcılar, hastane bilgilerini, oda detaylarını, iletişim bilgilerini, departmanları ve randevuları kolaylıkla görüntüleyebilir, ekleyebilir, düzenleyebilir veya silebilir.
 
