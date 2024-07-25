@@ -33,7 +33,7 @@ Departmanlarla ilgili bilgileri görüntüleyip yönetebilirsiniz. Departmanlar�
 
 ![departmans](https://github.com/user-attachments/assets/60fcc993-64ea-4ed5-b17f-149ea8b4ac85)
 
-**Rendavu Yönetimi**
+**Randevu Yönetimi**
 
 Randevularla ilgili bilgileri görüntüleyip yönetebilirsiniz. Randevularımızın başlangıç zamanı, bitiş zamanı, açıklaması, durumu, doktor ve hasta kimlik bilgileri ile hastane kimliği gibi bilgileri içeren listeye buradan erişebilirsiniz. Yeni bir randevu ekleyebilir, mevcut randevuları düzenleyebilir veya silebilirsiniz.
 
