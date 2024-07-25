@@ -9,14 +9,15 @@ HospitalApp Backend, bitirme projesi kapsamında hastane bilgilerini yönetme, o
 **Hastane Yönetimi**
 
 Hastanelerle ilgili bilgileri görüntüleyip yönetebilirsiniz. Hastanelerimizin adı, türü, ülke ve şehir bilgilerini içeren listeye buradan erişebilirsiniz. Yeni hastane ekleyebilir, mevcut hastaneleri düzenleyebilir veya silebilirsiniz.
-![hospital](https://github.com/user-attachments/assets/77a145f2-2e34-402e-84f0-a5349fbe55bb)
+
+![hospitalss](https://github.com/user-attachments/assets/8d266e3e-5dd0-4234-bf5c-c9dc6c8b0fc5)
 
 
 
 **Oda Yönetimi**
 
 Odalarla ilgili bilgileri görüntüleyip yönetebilirsiniz. Odalarımızın numarası, durumu, türü ve bağlı oldukları hastane bilgilerini içeren listeye buradan erişebilirsiniz. Yeni bir oda ekleyebilir, mevcut odaları düzenleyebilir veya silebilirsiniz.
-![Room](https://github.com/user-attachments/assets/6e5f19e1-14b4-45ad-98db-b704d30b7bd7)
+
 
 
 **İletişim Yönetimi**
