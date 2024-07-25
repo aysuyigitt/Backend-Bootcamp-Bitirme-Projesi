@@ -1,0 +1,91 @@
+﻿/* Please see documentation at https://docs.microsoft.com/aspnet/core/client-side/bundling-and-minification
+for details on configuring this project to bundle and minify static web assets. */
+body {
+    margin-bottom: 60px;
+    background: url("/images/WebSite.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+a.navbar-brand {
+    white-space: normal;
+    text-align: center;
+    word-break: break-all;
+}
+
+
+/* Hover durumunda kutu gölgesi ekleme */
+.navbar-nav .nav-link:hover {
+    box-shadow: 0 .25rem .75rem rgba(0, 0, 0, .1); /* Hafif gölge efekti */
+    background-color: #28a745;  Yeşil arka plan rengi 
+    color: #fff;  Metin rengi beyaz 
+    box-shadow: 0 .25rem .75rem rgba(0, 0, 0, .1);  Hafif gölge efekti 
+    border-radius: 5px;  Köşeleri yuvarlatma 
+}
+
+a {
+   /* display: flex;
+    border: 1px solid #e0e0e0; 
+    border-radius: 15px;  
+    padding: 20px;  
+    display: inline-block;
+    padding: 10px 20px;*/
+    color: black;  
+    text-decoration: none;  
+    text-align: center;
+    border-radius: 100px; 
+    font-weight: bold; 
+    font-size: 14px;  
+    transition: background-color 0.3s, color 0.3s; 
+}
+
+
+.btn-primary {
+
+    color: #fff;
+    background-color: #1b6ec2;
+    border-color: #1861ac;
+}
+
+.nav-pills .nav-link.active, .nav-pills .show > .nav-link {
+    color: #fff;
+    background-color: #1b6ec2;
+    border-color: #1861ac;
+}
+
+/* Sticky footer styles
+-------------------------------------------------- */
+html {
+    font-size: 14px;
+}
+
+@media (min-width: 768px) {
+    html {
+        font-size: 16px;
+    }
+}
+
+.border-top {
+    border-top: 1px solid #e5e5e5;
+}
+
+.border-bottom {
+    border-bottom: 1px solid #e5e5e5;
+}
+
+.box-shadow {
+    box-shadow: 0 .25rem .75rem rgba(0, 0, 0, .05);
+}
+
+button.accept-policy {
+    font-size: 1rem;
+    line-height: inherit;
+}
+
+/* Sticky footer styles
+-------------------------------------------------- */
+html {
+    position: relative;
+    min-height: 100%;
+}
+

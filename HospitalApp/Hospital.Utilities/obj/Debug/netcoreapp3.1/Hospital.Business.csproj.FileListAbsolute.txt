@@ -1,0 +1,9 @@
+C:\Users\AYSU YİĞİT\Source\Repos\HospitalApp\Hospital.Utilities\bin\Debug\netcoreapp3.1\Hospital.Business.deps.json
+C:\Users\AYSU YİĞİT\Source\Repos\HospitalApp\Hospital.Utilities\bin\Debug\netcoreapp3.1\Hospital.Business.dll
+C:\Users\AYSU YİĞİT\Source\Repos\HospitalApp\Hospital.Utilities\bin\Debug\netcoreapp3.1\Hospital.Business.pdb
+C:\Users\AYSU YİĞİT\Source\Repos\HospitalApp\Hospital.Utilities\obj\Debug\netcoreapp3.1\Hospital.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AYSU YİĞİT\Source\Repos\HospitalApp\Hospital.Utilities\obj\Debug\netcoreapp3.1\Hospital.Business.AssemblyInfoInputs.cache
+C:\Users\AYSU YİĞİT\Source\Repos\HospitalApp\Hospital.Utilities\obj\Debug\netcoreapp3.1\Hospital.Business.AssemblyInfo.cs
+C:\Users\AYSU YİĞİT\Source\Repos\HospitalApp\Hospital.Utilities\obj\Debug\netcoreapp3.1\Hospital.Business.csproj.CoreCompileInputs.cache
+C:\Users\AYSU YİĞİT\Source\Repos\HospitalApp\Hospital.Utilities\obj\Debug\netcoreapp3.1\Hospital.Business.dll
+C:\Users\AYSU YİĞİT\Source\Repos\HospitalApp\Hospital.Utilities\obj\Debug\netcoreapp3.1\Hospital.Business.pdb

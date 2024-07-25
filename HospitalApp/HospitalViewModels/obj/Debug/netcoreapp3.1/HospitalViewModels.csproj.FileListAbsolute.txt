@@ -1,0 +1,13 @@
+C:\Users\AYSU YİĞİT\Source\Repos\HospitalApp\HospitalViewModels\bin\Debug\netcoreapp3.1\HospitalViewModels.deps.json
+C:\Users\AYSU YİĞİT\Source\Repos\HospitalApp\HospitalViewModels\bin\Debug\netcoreapp3.1\HospitalViewModels.dll
+C:\Users\AYSU YİĞİT\Source\Repos\HospitalApp\HospitalViewModels\bin\Debug\netcoreapp3.1\HospitalViewModels.pdb
+C:\Users\AYSU YİĞİT\Source\Repos\HospitalApp\HospitalViewModels\obj\Debug\netcoreapp3.1\HospitalViewModels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AYSU YİĞİT\Source\Repos\HospitalApp\HospitalViewModels\obj\Debug\netcoreapp3.1\HospitalViewModels.AssemblyInfoInputs.cache
+C:\Users\AYSU YİĞİT\Source\Repos\HospitalApp\HospitalViewModels\obj\Debug\netcoreapp3.1\HospitalViewModels.AssemblyInfo.cs
+C:\Users\AYSU YİĞİT\Source\Repos\HospitalApp\HospitalViewModels\obj\Debug\netcoreapp3.1\HospitalViewModels.csproj.CoreCompileInputs.cache
+C:\Users\AYSU YİĞİT\Source\Repos\HospitalApp\HospitalViewModels\obj\Debug\netcoreapp3.1\HospitalViewModels.dll
+C:\Users\AYSU YİĞİT\Source\Repos\HospitalApp\HospitalViewModels\obj\Debug\netcoreapp3.1\HospitalViewModels.pdb
+C:\Users\AYSU YİĞİT\Source\Repos\HospitalApp\HospitalViewModels\bin\Debug\netcoreapp3.1\HospitalApp.Entities.dll
+C:\Users\AYSU YİĞİT\Source\Repos\HospitalApp\HospitalViewModels\bin\Debug\netcoreapp3.1\HospitalApp.Entities.pdb
+C:\Users\AYSU YİĞİT\Source\Repos\HospitalApp\HospitalViewModels\obj\Debug\netcoreapp3.1\HospitalViewModels.csproj.AssemblyReference.cache
+C:\Users\AYSU YİĞİT\Source\Repos\HospitalApp\HospitalViewModels\obj\Debug\netcoreapp3.1\Hospital.A0438103.Up2Date
