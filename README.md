@@ -16,6 +16,8 @@ Hastanelerle ilgili bilgileri görüntüleyip yönetebilirsiniz. Hastanelerimizi
 **Oda Yönetimi**
 
 Odalarla ilgili bilgileri görüntüleyip yönetebilirsiniz. Odalarımızın numarası, durumu, türü ve bağlı oldukları hastane bilgilerini içeren listeye buradan erişebilirsiniz. Yeni bir oda ekleyebilir, mevcut odaları düzenleyebilir veya silebilirsiniz.
+![Room](https://github.com/user-attachments/assets/6e5f19e1-14b4-45ad-98db-b704d30b7bd7)
+
 
 **İletişim Yönetimi**
 
