@@ -5,20 +5,13 @@ HospitalApp Backend, bitirme projesi kapsamında hastane bilgilerini yönetme, o
 
 ## Beklenen Fonksiyonlar
 
-**Hastane Yönetimi**
-
-**Oda Yönetimi**
-
-**İletişim Yönetimi**
-
-**Departman Yönetimi**
-
-**Rendavu Yönetimi**
-
 
 **Hastane Yönetimi**
 
 Hastanelerle ilgili bilgileri görüntüleyip yönetebilirsiniz. Hastanelerimizin adı, türü, ülke ve şehir bilgilerini içeren listeye buradan erişebilirsiniz. Yeni hastane ekleyebilir, mevcut hastaneleri düzenleyebilir veya silebilirsiniz.
+
+![Uploading hospital.PNG…]()
+
 
 **Oda Yönetimi**
 
