@@ -18,19 +18,27 @@ Hastanelerle ilgili bilgileri görüntüleyip yönetebilirsiniz. Hastanelerimizi
 
 Odalarla ilgili bilgileri görüntüleyip yönetebilirsiniz. Odalarımızın numarası, durumu, türü ve bağlı oldukları hastane bilgilerini içeren listeye buradan erişebilirsiniz. Yeni bir oda ekleyebilir, mevcut odaları düzenleyebilir veya silebilirsiniz.
 
+![romms](https://github.com/user-attachments/assets/7fd587f5-93f2-4a7a-b537-006035701972)
 
 
 **İletişim Yönetimi**
 
 İletişim bilgilerini görüntüleyip yönetebilirsiniz. Hastanelerimizin telefon numarası e-posta adresi ve bağlı oldukları hastane bilgilerini içeren listeye buradan erişebilirsiniz. Yeni bir iletişim bilgisi ekleyebilir, mevcut iletişim bilgilerini düzenleyebilir veya silebilirsiniz.
 
+![contacts](https://github.com/user-attachments/assets/f634c51a-47a3-49e6-b2ee-da3f580c7ceb)
+
 **Departman Yönetimi**
 
 Departmanlarla ilgili bilgileri görüntüleyip yönetebilirsiniz. Departmanlarımızın adı, açıklaması ve bağlı oldukları hastane bilgilerini içeren listeye buradan erişebilirsiniz. Yeni bir departman ekleyebilir, mevcut departmanları düzenleyebilir veya silebilirsiniz.
 
+![departmans](https://github.com/user-attachments/assets/60fcc993-64ea-4ed5-b17f-149ea8b4ac85)
+
 **Rendavu Yönetimi**
 
 Randevularla ilgili bilgileri görüntüleyip yönetebilirsiniz. Randevularımızın başlangıç zamanı, bitiş zamanı, açıklaması, durumu, doktor ve hasta kimlik bilgileri ile hastane kimliği gibi bilgileri içeren listeye buradan erişebilirsiniz. Yeni bir randevu ekleyebilir, mevcut randevuları düzenleyebilir veya silebilirsiniz.
+
+![appo,](https://github.com/user-attachments/assets/2dd1595d-3e9b-405b-a112-501bf9a52078)
+
 
 ## Teknolojiler
 
